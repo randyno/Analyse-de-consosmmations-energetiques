@@ -1,6 +1,7 @@
 ## Contexte :
 On considère la consommation de deux points de consommation appartenant à un même site. Vous devrez effectuer une analyse de la consommation du site à travers 3 axes différents. Chaque analyse est composée d'un graphique et d'un commentaire mettant en évidence une observation pertinente.
-## Données : 2 fichiers csv contenant chacun les relèves en kW d'un point de consommation entre le 01/01/2022 et le 31/12/2023.
+## Données : 
+2 fichiers csv contenant chacun les relèves en kW d'un point de consommation entre le 01/01/2022 et le 31/12/2023.
 ## Autres informations : 
 •	La relève d'un point de consommation est une puissance exprimée en kW. 
 •	La consommation est une moyenne des relèves horaires exprimée en kWh.  
